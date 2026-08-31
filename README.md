@@ -8,6 +8,6 @@ int main() {
      }
 
 else { 
-    cout <<  "a is negative" << endl;  
+    cout <<  "a is negati
 }
     ret
