@@ -8,6 +8,4 @@ int main() {
      }
 
 else { 
-    cout <<  "a is negati
-}
-    ret
+    co
