@@ -10,5 +10,4 @@ int main() {
 else { 
     cout <<  "a is negative" << endl;  
 }
-    return 0;
-}
+    ret
